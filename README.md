@@ -9,6 +9,11 @@ This is a UI only recreation of the MyNhif App, which is a medical insurance app
 3. Run `npm install` to install all relevant dependencies for the project.
 4. Check the `package.json` file for the scripts you can run during development.
 
+### Requirements to run the app
+
+1. Java 8 or Java 11.
+2. Android Studio
+
 ## Navigation
 
 Navigating between pages is done using `react-navigation/native-stack` and `react-navigation/bottom-tabs`.
