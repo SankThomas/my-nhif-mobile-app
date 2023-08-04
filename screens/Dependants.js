@@ -37,15 +37,6 @@ export default function Dependants() {
           <Text style={[globals.blue, styles.blue]}>Age: 10</Text>
           <Text style={[globals.button, styles.button]}>Covered</Text>
         </View>
-
-        <View style={styles.cards}>
-          <Text style={[globals.textDark, styles.textDark]}>
-            Vernal Equinox
-          </Text>
-          <Text style={[globals.textDark, styles.textDark]}>Daughter</Text>
-          <Text style={[globals.blue, styles.blue]}>Age: 10</Text>
-          <Text style={[globals.button, styles.button]}>Covered</Text>
-        </View>
       </View>
     </ScrollView>
   );
