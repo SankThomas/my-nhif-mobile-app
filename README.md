@@ -2,6 +2,13 @@
 
 This is a UI only recreation of the MyNhif App, which is a medical insurance app.
 
+## Running the app
+
+1. Open a terminal window and clone the repository using `git clone https://github.com/sankthomas/my-nhif-mobile-app.git`.
+2. Still within your terminal, CD into the folder using `cd my-nhif-mobile-app`.
+3. Run `npm install` to install all relevant dependencies for the project.
+4. Check the `package.json` file for the scripts you can run during development.
+
 ## Navigation
 
 Navigating between pages is done using `react-navigation/native-stack` and `react-navigation/bottom-tabs`.
